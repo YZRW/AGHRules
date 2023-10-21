@@ -4,9 +4,12 @@
 @@||account.sl916.com^
 @@||account-bak.sl916.com^
 @@||notice.sl916.com^
-@@||gamesdk.sl916.com^
-@@||gamesdk-bak.sl916.com^
+@@||notice-res.sl916.com^
+! @@||gamesdk.sl916.com^
+! @@||gamesdk-bak.sl916.com^
 ! @@||ssgamesdk-hotupdate.sl916.com^
+@@||game-re-service.sl916.com^
+@@||game-re-service-bak.sl916.com^
 @@||d.bluepoch.com^
 @@||hotupdate.sl916.com^
 @@||hotupdate-bak.sl916.com^
