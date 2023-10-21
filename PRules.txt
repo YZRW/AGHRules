@@ -6,6 +6,8 @@
 @@||d.bluepoch.com^
 @@||hotupdate.sl916.com^
 @@||hotupdate-bak.sl916.com^
+@@||hotupdate-res.sl916.com^
+@@||hotupdate-res-bak.sl916.com^
 @@||optionalres.sl916.com^
 @@||optionalres-bak.sl916.com^
 ! @@||ssgamesdk-hotupdate.sl916.com^
