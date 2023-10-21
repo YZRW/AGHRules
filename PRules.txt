@@ -1,5 +1,5 @@
 ! Title : Personal AGH Rules
-! Update : 2023/8
+! Update : 2023/10
 @@||iosapps.itunes.apple.com^
 @@||d.bluepoch.com^
 @@||hotupdate.sl916.com^
