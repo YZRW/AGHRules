@@ -1,7 +1,8 @@
 ! Title : Personal AGH Rules
 ! Update : 2023/10
 @@||iosapps.itunes.apple.com^
-! @@||account.sl916.com^
+@@||account.sl916.com^
+@@||account-bak.sl916.com^
 ! @@||gamesdk.sl916.com^
 ! @@||ssgamesdk-hotupdate.sl916.com^
 @@||d.bluepoch.com^
