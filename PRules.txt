@@ -3,4 +3,7 @@
 @@||iosapps.itunes.apple.com^
 @@||d.bluepoch.com^
 @@||hotupdate.sl916.com^
+@@||ssgamesdk-hotupdate.sl916.com^
+@@||account.sl916.com^
+@@||gamesdk.sl916.com^
 ||juejin.cn^
