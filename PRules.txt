@@ -1,6 +1,20 @@
 ! Title : Personal AGH Rules
 ! Update : 2023/10
+
+! 重返未来：1999 H5活动
+@@||re.bluepoch.com^
+
+! zhihu question & zhuanlan
+@@!!www.zhihu.com^
+@@||zhuanlan.zhihu.com^
+
+! Block 掘金
+||juejin.cn^
+
+! Fix AppStore Download Apps
 @@||iosapps.itunes.apple.com^
+
+! 重返未来：1999
 @@||account.sl916.com^
 @@||account-bak.sl916.com^
 @@||notice.sl916.com^
@@ -18,6 +32,3 @@
 @@||optionalres.sl916.com^
 @@||optionalres-bak.sl916.com^
 @@||optionalres-res.sl916.com^
-@@!!www.zhihu.com^
-@@||zhuanlan.zhihu.com^
-||juejin.cn^
