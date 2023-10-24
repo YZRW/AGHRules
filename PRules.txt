@@ -4,6 +4,9 @@
 ! 重返未来：1999 H5活动
 @@||re.bluepoch.com^
 
+! 什么值得买
+@@||post.smzdm.com^
+
 ! zhihu question & zhuanlan
 @@!!www.zhihu.com^
 @@||zhuanlan.zhihu.com^
