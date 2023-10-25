@@ -6,6 +6,7 @@
 
 ! 什么值得买
 @@||post.smzdm.com^
+@@||post.m.smzdm.com^
 
 ! zhihu question & zhuanlan
 @@!!www.zhihu.com^
