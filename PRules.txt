@@ -11,7 +11,7 @@
 
 ! zhihu question & zhuanlan
 ||zhihu.com^
-@@!!www.zhihu.com^
+@@||www.zhihu.com^
 @@||zhuanlan.zhihu.com^
 
 ! Purifying Baidu
