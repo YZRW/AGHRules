@@ -1,20 +1,20 @@
 ! Title : Personal AGH Rules
 ! Update : 2023/10
-
+!
 ! 重返未来：1999 H5活动
 @@||re.bluepoch.com^
-
+!
 ! Purifying 什么值得买
 ||smzdm.com^
 @@||post.smzdm.com^
 ! Fix WAP
 @@||post.m.smzdm.com^
-
+!
 ! zhihu question & zhuanlan
 ||zhihu.com^
 @@||www.zhihu.com^
 @@||zhuanlan.zhihu.com^
-
+!
 ! Purifying Baidu
 ||baidu.com^
 @@||www.baidu.com^
@@ -27,13 +27,13 @@
 ! Baidu login
 @@||passport.baidu.com^
 @@||wappass.baidu.com^
-
+!
 ! Block 掘金
 ||juejin.cn^
-
+!
 ! Fix AppStore Download Apps
 @@||iosapps.itunes.apple.com^
-
+!
 ! 重返未来：1999
 @@||account.sl916.com^
 @@||account-bak.sl916.com^
