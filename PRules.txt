@@ -1,40 +1,52 @@
 ! Title : Personal AGH Rules
 ! Update : 2023/10
+! 编辑规则：相同域名不空行，不同域名空1行，不同“Category”空2行。
+! “Category”顺序：1.REGEX 2.Block 3.Purify 4.Fix
 !
-! REGEX
+! Category: REGEX
+! kill all domains that contain "click"
 /click/
 !
-! 重返未来：1999 H5活动
-@@||re.bluepoch.com^
 !
-! Purifying 什么值得买
-||smzdm.com^
-@@||post.smzdm.com^
-! Fix WAP
-@@||post.m.smzdm.com^
+! Category: Block
+! 掘金
+||juejin.cn^
 !
-! zhihu question & zhuanlan
+! online shopping platform
+||u.jd.com^
+||1111.tmall.com^
+!
+! suspicious sites
+||qianxun.com^
+!
+!
+! Category: Purify
+! Baidu
+||baidu.com^
+@@||www.baidu.com^
+@@||passport.baidu.com^
+@@||wappass.baidu.com^
+@@||baike.baidu.com^
+@@||jingyan.baidu.com^
+@@||zhidao.baidu.com^
+@@||pan.baidu.com^
+@@||wenku.baidu.com^
+@@||tieba.baidu.com^
+@@||quantum-hub.baidu.com^
+!
+! zhihu(zhihu question & zhuanlan)
 ||zhihu.com^
 @@||www.zhihu.com^
 @@||zhuanlan.zhihu.com^
 !
-! Purifying Baidu
-||baidu.com^
-@@||www.baidu.com^
-@@||baike.baidu.com^
-@@||jingyan.baidu.com^
-@@||zhidao.baidu.com^
-@@||wenku.baidu.com^
-@@||tieba.baidu.com^
-@@||quantum-hub.baidu.com^
-! Baidu login
-@@||passport.baidu.com^
-@@||wappass.baidu.com^
+! 什么值得买(include WAP fix)
+||smzdm.com^
+@@||post.smzdm.com^
+@@||post.m.smzdm.com^
 !
-! Block 掘金
-||juejin.cn^
 !
-! Fix AppStore Download Apps
+! Category: Fix
+! IOS AppStore download apps
 @@||iosapps.itunes.apple.com^
 !
 ! 重返未来：1999
@@ -55,3 +67,5 @@
 @@||optionalres.sl916.com^
 @@||optionalres-bak.sl916.com^
 @@||optionalres-res.sl916.com^
+! 重返未来：1999 H5活动
+@@||re.bluepoch.com^
