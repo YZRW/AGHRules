@@ -4,7 +4,8 @@
 ! 重返未来：1999 H5活动
 @@||re.bluepoch.com^
 
-! 什么值得买
+! Purifying 什么值得买
+||smzdm.com^
 @@||post.smzdm.com^
 ! Fix WAP
 @@||post.m.smzdm.com^
