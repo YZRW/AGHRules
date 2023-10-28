@@ -46,9 +46,6 @@
 !
 !
 ! Category: Fix
-! AdGuard-custom DNS server functionality
-@@||ipv4only.arpa^$important
-!
 ! IOS AppStore-download apps
 @@||iosapps.itunes.apple.com^
 !
@@ -72,3 +69,50 @@
 @@||optionalres-res.sl916.com^
 ! 重返未来：1999 H5活动
 @@||re.bluepoch.com^
+
+! Title : HC REGEX LIST
+! Update : 2023/8
+!
+! DNS Rewrite
+/.*[\?|\+|\/]/$dnsrewrite=NXDOMAIN
+!/^.+\.(arpa|lan|wifi|dnscrypt)$/$dnsrewrite=NXDOMAIN
+/^.+\.(lan|wifi|dnscrypt)$/$dnsrewrite=NXDOMAIN
+/^[^.]+$/$dnsrewrite=NXDOMAIN
+/[a-z0-9]*dnslab[a-z0-9]*/$dnsrewrite=SERVFAIL
+!
+! Tacker
+!
+/^.*collect.*\.kugou\.com/
+/^[a-z0-9]*stat[^ic][a-z0-9\.]*kugou\.com/
+/\.*log(0-9)*\-applog/
+/^[a-z0-9]*-applog\.[a-z0-9]*/
+/^[a-z0-9\.]*stat(s)?\.[a-z0-9\.]*/
+/^clog[a-z0-9\.]+/
+/^datacollector[a-z0-9\.]+/
+/^analytic(s)?[a-z0-9\.]+/
+!
+! http(s) dns
+!
+/[a-z0-9\.]*(http|https)dns\.[a-z0-9\.]*/
+!
+! F**K Shit CDN
+!
+/mcdn\.bilivideo\.(cn|com)/
+!
+! Ads
+!
+/^.*\.ad(s)\.[a-z0-9\.]+/
+/^.*\-ad\.[a-z0-9\.]+/
+/^adservice\.[a-z0-9\.]+/
+/^advert[a-z0-9\.]+/
+/(.+)?\.?doubleclick\.(com|net)/
+/(.+)?adservices(.)+/
+/pull\-rtmp\-.+\.(.)+\.(com|cn)/
+/pangolin-sdk.*/
+/pglstatp-toutiao.*/
+/umeng.*/
+/-ad-/
+!/^log(s)?\.[a-z0-9.]*/
+/^ad(s)?\..*/
+/\.ad\./$dnstype=~CNAME
+/-ad\./
