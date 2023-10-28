@@ -46,7 +46,10 @@
 !
 !
 ! Category: Fix
-! IOS AppStore download apps
+! AdGuard-custom DNS server functionality
+@@||ipv4only.arpa^
+!
+! IOS AppStore-download apps
 @@||iosapps.itunes.apple.com^
 !
 ! 重返未来：1999
