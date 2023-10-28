@@ -47,7 +47,7 @@
 !
 ! Category: Fix
 ! AdGuard-custom DNS server functionality
-@@||ipv4only.arpa^
+@@||ipv4only.arpa^$important
 !
 ! IOS AppStore-download apps
 @@||iosapps.itunes.apple.com^
