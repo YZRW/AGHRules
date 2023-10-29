@@ -58,6 +58,12 @@
 ! IOS AppStore-download apps
 @@||iosapps.itunes.apple.com^
 !
+! renminribao app
+@@||peopleapp.com^
+!
+! xuexiqiangguo
+@@||xuexi.cn^
+!
 ! 360 camera
 @@||q3.jia.360.cn^
 !
