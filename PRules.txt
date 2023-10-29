@@ -46,11 +46,20 @@
 !
 !
 ! Category: Fix
+! HUAWEI/HONOR connectivity check
+@@||connectivitycheck.platform.hicloud.com^
+@@||connectivitycheck.platform.hihonorcloud.com^
+!@@||connectivitycheck.platform.dbankcloud.com^
+!@@||stdm-drcn.platform.hicloud.com^
+@@||connectivitycheck-backup.platform.hihonorcloud.com^
+! hihonorcloud
+!@@||account-drcn.platform.hihonorcloud.com^
+!
 ! IOS AppStore-download apps
 @@||iosapps.itunes.apple.com^
 !
 ! 360 camera
-||q3.jia.360.cn^
+@@||q3.jia.360.cn^
 !
 ! 重返未来：1999
 @@||account.sl916.com^
