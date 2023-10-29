@@ -49,6 +49,9 @@
 ! IOS AppStore-download apps
 @@||iosapps.itunes.apple.com^
 !
+! 360 camera
+||q3.jia.360.cn^
+!
 ! 重返未来：1999
 @@||account.sl916.com^
 @@||account-bak.sl916.com^
