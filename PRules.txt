@@ -39,11 +39,18 @@
 @@||www.zhihu.com^
 @@||zhuanlan.zhihu.com^
 @@||static.zhihu.com^
+@@||zhimg.com^
 !
 ! 什么值得买(include WAP fix)
 ||smzdm.com^
 @@||post.smzdm.com^
 @@||post.m.smzdm.com^
+!
+! CSDN blog
+||csdn.net^
+||csdnimg.cn^
+@@||blog.csdn.net^
+@@||img-blog.csdnimg.cn^
 !
 !
 ! Category: Fix
@@ -72,9 +79,6 @@
 ||px-itrace.xuexi.cn^$important
 ||lws.xuexi.cn^$important
 ||umid.xuexi.cn^$important
-!
-! CSDN blog
-@@||img-blog.csdnimg.cn^
 !
 ! 360 smart camera
 !@@||q3.jia.360.cn^
