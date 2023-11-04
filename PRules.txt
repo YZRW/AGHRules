@@ -46,6 +46,10 @@
 !
 !
 ! Category: Fix
+! e Foundation
+@@||e.foundation^$important
+@@||ecloud.global^$important
+!
 ! HUAWEI/HONOR connectivity check
 @@||connectivitycheck.platform.hicloud.com^
 @@||connectivitycheck.platform.hihonorcloud.com^
