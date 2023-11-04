@@ -38,6 +38,7 @@
 ||zhihu.com^
 @@||www.zhihu.com^
 @@||zhuanlan.zhihu.com^
+@@||static.zhihu.com^
 !
 ! 什么值得买(include WAP fix)
 ||smzdm.com^
@@ -71,6 +72,9 @@
 ||px-itrace.xuexi.cn^$important
 ||lws.xuexi.cn^$important
 ||umid.xuexi.cn^$important
+!
+! CSDN blog
+@@||img-blog.csdnimg.cn^
 !
 ! 360 smart camera
 !@@||q3.jia.360.cn^
