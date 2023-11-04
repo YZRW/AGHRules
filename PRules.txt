@@ -84,6 +84,9 @@
 ! 360 smart camera
 !@@||360.cn^
 !
+! flatpak install flathub com.baidu.NetDisk
+@@||issuepcdn.baidupcs.com^
+!
 ! 重返未来：1999
 @@||account.sl916.com^
 @@||account-bak.sl916.com^
