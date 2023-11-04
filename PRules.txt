@@ -82,7 +82,7 @@
 ||umid.xuexi.cn^$important
 !
 ! 360 smart camera
-!@@||q3.jia.360.cn^
+@@||360.cn^
 !
 ! 重返未来：1999
 @@||account.sl916.com^
