@@ -4,8 +4,9 @@
 ! “Category”顺序：1.REGEX 2.Block 3.Purify 4.Fix
 !
 ! Category: REGEX
-! kill all domains that contain "click"
+! kill all domains that contain "click/dns"
 /click/
+/dns/$dnsrewrite=NXDOMAIN
 !
 !
 ! Category: Block
@@ -81,6 +82,11 @@
 ||lws.xuexi.cn^$important
 ||umid.xuexi.cn^$important
 !
+! Tencent
+! weixin HttpDNS
+!||dns.qq.com^
+!||dns.weixin.qq.com^
+!
 ! 360 smart camera
 !@@||360.cn^
 !
@@ -113,8 +119,8 @@
 !
 ! DNS Rewrite
 /.*[\?|\+|\/]/$dnsrewrite=NXDOMAIN
-!/^.+\.(arpa|lan|wifi|dnscrypt)$/$dnsrewrite=NXDOMAIN
-/^.+\.(lan|wifi|dnscrypt)$/$dnsrewrite=NXDOMAIN
+/^.+\.(arpa|lan|wifi|dnscrypt)$/$dnsrewrite=NXDOMAIN
+!/^.+\.(lan|wifi|dnscrypt)$/$dnsrewrite=NXDOMAIN
 /^[^.]+$/$dnsrewrite=NXDOMAIN
 /[a-z0-9]*dnslab[a-z0-9]*/$dnsrewrite=SERVFAIL
 !
