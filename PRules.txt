@@ -6,7 +6,7 @@
 ! Category: REGEX
 ! kill all domains that contain "click/dns"
 /click/
-/dns/$dnsrewrite=NXDOMAIN
+/(dns|httpdns|doh|dot)/$dnsrewrite=NXDOMAIN
 !
 !
 ! Category: Block
