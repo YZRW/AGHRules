@@ -67,6 +67,9 @@
 @@||murena.com^$important
 @@||murena.io^$important
 !
+! vpsor
+@@||vpsor.cn^
+!
 ! Bing(parental CATEGORY_BLACKLISTED)
 @@||www.bing.com^
 @@||cn.bing.com^
