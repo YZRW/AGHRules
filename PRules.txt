@@ -64,6 +64,8 @@
 ! e Foundation
 @@||e.foundation^$important
 @@||ecloud.global^$important
+@@||murena.com^$important
+@@||murena.io^$important
 !
 ! Bing(parental CATEGORY_BLACKLISTED)
 @@||www.bing.com^
