@@ -64,6 +64,10 @@
 @@||e.foundation^$important
 @@||ecloud.global^$important
 !
+! Bing(parental CATEGORY_BLACKLISTED)
+@@||www.bing.com^
+@@||cn.bing.com^
+!
 ! HUAWEI/HONOR connectivity check
 @@||connectivitycheck.platform.hicloud.com^
 @@||connectivitycheck.platform.hihonorcloud.com^
