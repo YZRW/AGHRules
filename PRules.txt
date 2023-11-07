@@ -7,10 +7,11 @@
 ! kill all domains that contain "click/dns"
 /click/
 ||dns.*^$dnsrewrite=NXDOMAIN
-||httpdns.*^$dnsrewrite=NXDOMAIN
-||httpsdns.*^$dnsrewrite=NXDOMAIN
 ||doh.*^$dnsrewrite=NXDOMAIN
 ||dot.*^$dnsrewrite=NXDOMAIN
+||httpdns.*^$dnsrewrite=NXDOMAIN
+||httpsdns.*^$dnsrewrite=NXDOMAIN
+||bytedns1.*^$dnsrewrite=NXDOMAIN
 !
 !
 ! Category: Block
