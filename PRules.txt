@@ -15,7 +15,7 @@
 ! 2620:fe::10
 ! 2620:fe::fe:10
 ! Fix Google Public DNS
-||dns.google^$important
+@@||dns.google^$important
 !
 !
 ! Category: REGEX
