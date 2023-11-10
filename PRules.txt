@@ -85,9 +85,12 @@
 ! vpsor
 @@||vpsor.cn^
 !
+! 123pan
+@@||123pan.com^
+!
 ! Bing(parental CATEGORY_BLACKLISTED)
-@@||www.bing.com^
-@@||cn.bing.com^
+!@@||www.bing.com^
+!@@||cn.bing.com^
 !
 ! HUAWEI/HONOR connectivity check
 @@||connectivitycheck.platform.hicloud.com^
