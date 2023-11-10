@@ -86,7 +86,8 @@
 @@||vpsor.cn^
 !
 ! 123pan
-@@||123pan.com^
+@@||www.123pan.com^
+@@||statics.123pan.com^
 !
 ! Bing(parental CATEGORY_BLACKLISTED)
 !@@||www.bing.com^
