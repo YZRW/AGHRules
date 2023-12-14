@@ -45,14 +45,14 @@
 /measure/
 /telemetr/
 ! https://adblockplus.org/zh_CN/faq_basics
-/adv(?!ice)/
+! /adv(?!ice)/
 ||dns.*^$dnsrewrite=NXDOMAIN
 ||doh.*^$dnsrewrite=NXDOMAIN
 ||dot.*^$dnsrewrite=NXDOMAIN
 ||httpdns.*^$dnsrewrite=NXDOMAIN
 ||httpsdns.*^$dnsrewrite=NXDOMAIN
 ||bytedns1.*^$dnsrewrite=NXDOMAIN
-||ads.*^
+! ||ads.*^
 ||duckdns.*^
 !
 !
