@@ -104,7 +104,7 @@
 @@||api.ai.xiaomi.com^
 ! may
 @@||cloudcontrol.ai.xiaomi.com^
-@@||account-dcm.ai.xiaomi.com^
+!@@||account-dcm.ai.xiaomi.com^
 ! may
 @@||query-suggestion.ai.xiaomi.com^
 @@||userprofile.mina.mi.com^
