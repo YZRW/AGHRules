@@ -96,19 +96,18 @@
 @@||api.speaker.xiaomi.com^
 @@||api.io.mi.com^
 @@||api2.mina.mi.com^
-!@@||idm.iot.mi.com^
 @@||account.ai.xiaomi.com^
 @@||display.api.mina.mi.com^
 @@||music.mina.mi.com^
 @@||access.speech.ai.xiaomi.com^
 @@||api.ai.xiaomi.com^
-! may
-@@||cloudcontrol.ai.xiaomi.com^
-!@@||account-dcm.ai.xiaomi.com^
-! may
 @@||query-suggestion.ai.xiaomi.com^
 @@||userprofile.mina.mi.com^
 @@||resource.ai.xiaomi.com^
+! may
+!@@||cloudcontrol.ai.xiaomi.com^
+!@@||account-dcm.ai.xiaomi.com^
+!@@||idm.iot.mi.com^
 ! ???!!!
 @@||dlg.io.mi.com^
 @@||ot.io.mi.com^
