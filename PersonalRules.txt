@@ -271,6 +271,7 @@
 @@||wx.gtimg.com^
 @@||act.wechatpay.cn^
 @@||act.weixin.qq.com^
+@@||payapp.wechatpay.cn^
 ! 小程序
 @@||open.weixin.qq.com^
 @@||res.servicewechat.com^
