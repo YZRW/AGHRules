@@ -158,6 +158,7 @@
 @@||wenku.baidu.com^
 @@||tieba.baidu.com^
 @@||quantum-hub.baidu.com^
+@@||baijiahao.baidu.com^
 !
 ! zhihu(zhihu question & zhuanlan)
 ||zhihu.com^
@@ -282,41 +283,21 @@
 ! game
 ||game.weixin.qq.com^
 !
+! 中国大学MOOC
+@@||mooc*vod.stu.126.net^
+!
 ! vpsor
 @@||vpsor.cn^
 !
-! ednovas
-! pay
-@@||merchant.pacypay.net^
-@@||service.95189371.cn^
-!
-! lanzou
-@@||developer-oss.lanzouc.com^
-@@||assets.woozooo.com^
-@@||statics.woozooo.com^
-!
-! 123pan
-@@||www.123pan.com^
-@@||statics.123pan.com^
-@@||gtm-cn-5yd3c1s2701.123pan.com^
-@@||web-pro2.cjjd18.com^
-!
 ! googleusercontent
 @@||lh3.googleusercontent.com^
+@@||play-lh.googleusercontent.com^
 !
 ! renminribao app
 @@||peopleapp.com^$client=Dad|Grandpa
 !
 ! xuexiqiangguo
 @@||xuexi.cn^$client=Dad|Grandpa
-!
-! 中国大学MOOC
-@@||mooc*vod.stu.126.net^
-!
-! xiaohongshu
-@@||fe-static.xhscdn.com^
-@@||fe-video-qc.xhscdn.com^
-@@||picasso-static.xiaohongshu.com^
 !
 ! bilibili
 @@||s1.hdslb.com^
@@ -347,8 +328,8 @@
 ||strategy.shouji.360.cn^$client=Dad|Mom,important
 @@||xstore.qihu.com^$client=Dad|Mom
 !
-! flatpak install flathub com.baidu.NetDisk
-!@@||issuepcdn.baidupcs.com^
+! cnblogs
+@@||www.cnblogs.com^
 !
 ! .top
 @@||adrules.top^
@@ -359,23 +340,43 @@
 @@||qinlili.bid^
 @@||bzmshang.top^
 @@||luoling8192.top^
+@@||blog.timzhong.top^
 ! .space
 @@||iv.melmac.space^
 !
-! cnblogs
-@@||www.cnblogs.com^
+! xiaohongshu
+@@||fe-static.xhscdn.com^
+@@||fe-video-qc.xhscdn.com^
+@@||picasso-static.xiaohongshu.com^
 !
-! sms-activate.org
-@@||sms-activate.org^
+! lanzou
+@@||developer-oss.lanzouc.com^
+@@||assets.woozooo.com^
+@@||statics.woozooo.com^
+!
+! 123pan
+@@||www.123pan.com^
+@@||statics.123pan.com^
+@@||gtm-cn-5yd3c1s2701.123pan.com^
+@@||web-pro2.cjjd18.com^
+!
+! 肥城港华燃气有限公司
+! 微信公众号
+@@||weixin.towngasvcc.com^
 !
 ! 10086
 @@||dx.10086.cn^
 !
+! ednovas
+! pay
+@@||merchant.pacypay.net^
+@@||service.95189371.cn^
+!
+! flatpak install flathub com.baidu.NetDisk
+!@@||issuepcdn.baidupcs.com^
+!
 ! mgtv123
 ||ijycnd.com^$badfilter
-!
-! 肥城港华燃气有限公司（微信公众号）
-@@||weixin.towngasvcc.com^
 !
 !! 重返未来：1999
 !@@||account.sl916.com^
