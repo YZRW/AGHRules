@@ -53,7 +53,7 @@
 ||httpsdns.*^$dnsrewrite=NXDOMAIN
 ||bytedns1.*^$dnsrewrite=NXDOMAIN
 ! ||ads.*^
-||duckdns.*^
+! ||duckdns.*^
 !
 !
 ! Category: Block
